@@ -1,0 +1,1 @@
+Nessa aula tivemos uma revisão sobre as Cláusulas CREATE e ALTER
